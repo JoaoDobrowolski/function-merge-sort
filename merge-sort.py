@@ -3,6 +3,9 @@
 # O que se destaca é, por mais que seja muito compacta em relação as outras do mesmo tipo, possui muita simplicidade
 # OBS1: Merge Sort utiliza a técnica divisão e conquista
 # OBS2: Possui complexidade temporal melhor do que Buble Sort e Insertion Sort, que são 0(n²)
+
+# Como usar: a função recebe como parâmetro uma lista. Contudo, se houver a necessidade de realizar o sort em strigs, basta passar como parâmetro -> list(str)
+
 # Fique a vontade para usá-la como quiser :)
 
 def merge_sort(list):
